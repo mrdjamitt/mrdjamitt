@@ -51,15 +51,11 @@ me.say_hi()
 
 <td width="50%">
 
-<p align="center">
-  <img 
-    src="./assets/profile.png"
-    width="250"
-    style="border-radius:50%;
-    border:5px solid #00C2FF;
-    box-shadow:0px 0px 30px rgba(0,194,255,0.8);"
-  />
-</p>
+<img 
+src="./assets/profile.png" 
+width="250px"
+style="border-radius:50%; border:4px solid #00C2FF;" 
+/>
 </td>
 </tr>
 </table>

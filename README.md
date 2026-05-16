@@ -51,7 +51,7 @@ me.say_hi()
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxmM3NhM2NhbDl6aWFsM3Q2cDB2M2J2b2o4eGF0NjZsNnM3bGNmYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BzHA5FwWFXVSg/giphy.gif" width="100%" />
+<img src="./assets/profile.png" width="250"/>
 
 </td>
 </tr>

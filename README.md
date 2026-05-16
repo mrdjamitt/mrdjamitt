@@ -16,7 +16,7 @@ Data Analytics Professional | Python Enthusiast | Automation Builder
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 ```python
 class AmitMukherjee:
@@ -49,13 +49,14 @@ me.say_hi()
 
 </td>
 
-<td width="50%">
+<td width="45%" align="center">
 
 <img 
 src="./assets/profile.png" 
 width="250px"
 style="border-radius:50%; border:4px solid #00C2FF;" 
 />
+
 </td>
 </tr>
 </table>

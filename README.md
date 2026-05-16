@@ -53,7 +53,7 @@ me.say_hi()
 
 <a href="https://github.com/mrdjamitt">
   <img 
-    src="./assets/profile.png" 
+    src="./assets/profile1.png" 
     width="250px" 
     style="border-radius:50%;" 
     alt="Amit Mukherjee"

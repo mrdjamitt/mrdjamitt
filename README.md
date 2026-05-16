@@ -51,11 +51,14 @@ me.say_hi()
 
 <td width="45%" align="center">
 
-<img 
-src="./assets/profile.png" 
-width="250px"
-style="border-radius:50%; border:4px solid #00C2FF;" 
-/>
+<a href="https://github.com/mrdjamitt">
+  <img 
+    src="./assets/profile.png" 
+    width="250px" 
+    style="border-radius:50%;" 
+    alt="Amit Mukherjee"
+  />
+</a>
 
 </td>
 </tr>

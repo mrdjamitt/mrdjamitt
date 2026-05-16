@@ -13,7 +13,7 @@ I'm currently working in AU SFB as a Data Analytics.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrdjamitt&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrdjamitt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mrdjamitt&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
